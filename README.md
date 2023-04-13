@@ -1,4 +1,4 @@
-### Orpa 🤌
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Orpa%2C+b%C3%A3o%3F+)](https://git.io/typing-svg)
 
 <div>
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromujica1&layout=compact&theme=github_dark&hide_border=true"/>
