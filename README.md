@@ -1,6 +1,6 @@
 <h2> GitHub Stats </h2>
 
-![EliseuDLS GitHub stats](https://github-readme-stats.vercel.app/api username=EliseuDLS&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br)
+![EliseuDLS GitHub stats](https://github-readme-stats.vercel.app/api username=EliseuDLS&layout=compact=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br)
 
 <h2> Top Langs </h2>
 
