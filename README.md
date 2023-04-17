@@ -1,8 +1,14 @@
 <h2> About Me </h2>
 
-- 🔭 I’m currently working on VSCode.
-
-- 💬 Talk to me about JavaScript and Java. 
+name: Succinct report
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.pagespeed.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_pagespeed: yes
+  plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+  plugin_pagespeed_url: https://lecoq.io
 
 <h2> Skills </h2>
 <a href= https://github.com/EliseuDLS?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
