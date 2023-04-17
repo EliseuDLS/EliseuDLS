@@ -4,7 +4,7 @@
 
 <h2> Top Langs </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliseuDLS&layout=compact&theme=true&theme=transparent)](https://github.com/EliseuDLS/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliseuDLS&layout=compact&theme=true&theme=dark)](https://github.com/EliseuDLS/github-readme-stats)
 
 <h2> Skills </h2>
 <a href= https://github.com/EliseuDLS?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
