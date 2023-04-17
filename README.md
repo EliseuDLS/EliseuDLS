@@ -1,12 +1,10 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=570AB3&width=435&lines=Ol%C3%A1%2C+bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
-
 <h2> GitHub Stats </h2>
 
 ![EliseuDLS GitHub stats](https://github-readme-stats.vercel.app/api?username=EliseuDLS&show_icons=true&theme=radical)
 
 <h2> Top Langs </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliseuDLS&layout=compact)](https://github.com/EliseuDLS/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliseuDLS&layout=compact&show_icons=true&theme=radical)](https://github.com/EliseuDLS/github-readme-stats)
 
 <h2> Skills </h2>
 <a href= https://github.com/EliseuDLS?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
