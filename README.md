@@ -2,8 +2,7 @@
 
 ![EliseuDLS GitHub stats](https://github-readme-stats.vercel.app/api?username=EliseuDLS&show_icons=true&theme=radical)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliseuDLS&exclude_repo=github-readme-stats,EliseuDLS.github.io)](https://github.com/EliseuDLS/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliseuDLS&layout=compact)](https://github.com/EliseuDLS/github-readme-stats)
 
 <h2> Skills </h2>
 <a href= https://github.com/EliseuDLS?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
