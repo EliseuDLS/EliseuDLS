@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=570AB3&width=435&lines=Ol%C3%A1%2C+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=570AB3&width=435&lines=Ol%C3%A1%2C+bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
 
 <h2> Skills </h2>
 <a href= https://github.com/EliseuDLS?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
