@@ -1,6 +1,6 @@
 ## Hello, I'm Eliseu 👋 
 
-<h2> About me: </h2>
+### About me:
 - 😃 My name is Eliseu and my nickname is EliseuDLS
 - 📖 Senior year at IFPR Cascavel.
 - 🔭 I’m currently working on TCC (Conclusion Course Project)
