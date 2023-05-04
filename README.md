@@ -4,7 +4,7 @@
 - 😃 My name is Eliseu and my nickname is EliseuDLS
 - 📖 Senior year at IFPR Cascavel.
 - 🔭 I’m currently working on TCC (Conclusion Course Project)
-- ⚡ I enjoy watching movies and series and play instruments in my free time.
+- ⚡ I enjoy watching movies and series and play instruments in my free time!
 
 <h2> Skills and Technologies </h2>
 <a href= https://github.com/EliseuDLS?tab=repositories&q=&type=&language=javascript&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
@@ -24,3 +24,4 @@
 
 <h2> Connect with me </h2>
 <a href="https://instagram.com/@eliseu_dls/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
