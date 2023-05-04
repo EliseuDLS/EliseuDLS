@@ -26,5 +26,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EliseuDLS&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
+<div align="center">
+  ![Snake animation](https://github.com/EliseuDLS/EliseuDLS/blob/output/github-contribution-grid-snake.svg)
+</div>
+
 <h2> Connect with me </h2>
 <a href="https://instagram.com/@eliseu_dls/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
