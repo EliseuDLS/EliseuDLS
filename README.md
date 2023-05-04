@@ -27,7 +27,7 @@
 </div>
 
 <h2> Little Snake </h2>
-<div align="left">
+<div align="margin left">
   
   ![Snake animation](https://github.com/pablovns/pablovns/blob/output/github-contribution-grid-snake.svg)
   
