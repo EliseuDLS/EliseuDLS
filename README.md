@@ -19,7 +19,7 @@
 ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg'> </a>
 <a href= https://github.com/EliseuDLS?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='43px' src
 ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg'> </a>
-<a href= https://github.com/EliseuDLS?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='43px' src
+<a href= https://github.com/EliseuDLS?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='45px' src
 ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg'> </a>
                    
 <h2> GitHub Stats </h2>
