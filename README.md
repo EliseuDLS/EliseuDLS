@@ -1,10 +1,12 @@
 ## Hello, I'm Eliseu 👋 
 
 ### About me:
+<h2> 
 - 😃 My name is Eliseu and my nickname is EliseuDLS
 - 📖 Senior year at IFPR Cascavel.
 - 🔭 I’m currently working on TCC (Conclusion Course Project)
 - ⚡ I enjoy watching movies and series and play instruments in my free time!
+</h2>
 
 <h2> Skills and Technologies </h2>
 <a href= https://github.com/EliseuDLS?tab=repositories&q=&type=&language=javascript&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
