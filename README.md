@@ -12,10 +12,10 @@
 <a href= https://github.com/EliseuDLS?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 <a href= https://github.com/EliseuDLS?tab=repositories&q=&type=&language=reactnative&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/EliseuDLS?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/EliseuDLS?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg'> </a>
+<a href= https://github.com/EliseuDLS?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='43px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg'> </a>
 <a href= https://github.com/EliseuDLS?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/EliseuDLS?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='40px' src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> </a>
-<a href= https://github.com/EliseuDLS?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='45px' src
+<a href= https://github.com/EliseuDLS?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='43px' src
 = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg'> </a>
 
 <h2> GitHub Stats </h2>
