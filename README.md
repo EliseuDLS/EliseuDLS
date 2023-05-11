@@ -3,7 +3,7 @@
 ## About me:
 
 - 😃 My name is Eliseu and my nickname is EliseuDLS
-- 📖 Senior year at IFPR Cascavel.
+- 📖 Last year at IFPR Cascavel.
 - 🔭 I’m currently working on TCC (Conclusion Course Project)
 - ⚡ I enjoy watching movies and series and play instruments in my free time!
 
