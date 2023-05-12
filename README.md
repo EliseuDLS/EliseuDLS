@@ -27,11 +27,26 @@
 </div>
 
 <h2> Little Snake </h2>
-<div align="left">
-  
-  ![Snake animation](https://github.com/pablovns/pablovns/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+<p align="center">  
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+    "
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
+</p>
 
 <h2> Connect with me </h2>
 <a href="https://instagram.com/eliseu.dls/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
