@@ -1,4 +1,4 @@
-## Hello, I'm Eliseu 👋 
+## Hey, I'm Eliseu 👋 
 
 ## About me:
 
