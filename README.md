@@ -1,4 +1,4 @@
-## Hello There, I'm Eliseu 👾
+## Hello There, I'm Eliseu 🤙🏾
 ## About me:
 
 - 😃 My name is Eliseu.
@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on TCC (Conclusion Course Project).
 - ⚡ I enjoy watching movies and series and play instruments in my free time!
 
-<h2> Skills and Technologies </h2>
+<h2> Skills and Technologies 😎</h2>
 <a href= https://github.com/EliseuDLS?tab=repositories&q=&type=&language=javascript&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/EliseuDLS?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 <a href= https://github.com/EliseuDLS?tab=repositories&q=&type=&language=reactnative&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
@@ -19,12 +19,12 @@
 <a href= https://github.com/EliseuDLS?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='46px' src
 ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg'> </a>
                    
-<h2> GitHub Stats </h2>
+<h2> GitHub Stats 🤠</h2>
 <div>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EliseuDLS&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
-<h2> Little Snake </h2>
+<h2> Little Snake 👾</h2>
 <p align="center">  
 <picture>
   <source
@@ -73,5 +73,5 @@
 
 
 
-<h2> Connect with me </h2>
+<h2> Connect with me 👌🏾</h2>
 <a href="https://instagram.com/eliseu.dls/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
