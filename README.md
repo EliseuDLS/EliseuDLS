@@ -1,4 +1,4 @@
-## Hello There, I'm Eliseu 🤙🏾
+## Hello There 🤙🏾
 ## About me:
 
 - 😃 My name is Eliseu.
