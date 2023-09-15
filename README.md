@@ -21,7 +21,7 @@
                    
 <h2> GitHub Stats 🤠</h2>
 <div>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eliseuDLS&layout=compact&langs_count=8&theme=dark"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliseuDLS&hide_progress=true)
 </div>
 
 <h2> Little Snake 👾</h2>
